@@ -1,0 +1,31 @@
+
+.mul{
+    display: inline-block;
+    margin: 20px;
+    border: 2px solid black;
+}
+.cont{
+
+    min-height: calc(100vh - 48px);
+
+    background: linear-gradient(to top right, #11be8a 0%, #c4882f 100%);
+}
+input {
+    background: #E4E4E4;
+    line-height: 50px;
+    border-radius: 5px;
+    padding: 0 22px;
+    font-size: 2em;
+    color: #555555;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+#btn{
+    line-height: 50px;
+    border-radius: 5px;
+    padding: 0 22px;
+    font-size: 20px;
+}
